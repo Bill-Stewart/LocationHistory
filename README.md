@@ -26,7 +26,7 @@ The following sections describe how to install the module.
 
 To install the module from the PowerShell gallery, run the following command as an administrator:
 
-    Install-Module NetAccounts -Scope AllUsers
+    Install-Module LocationHistory -Scope AllUsers
 
 To install for the current user only, you can omit **-Scope AllUsers**.
 
