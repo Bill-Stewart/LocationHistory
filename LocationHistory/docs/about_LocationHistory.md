@@ -1,0 +1,11 @@
+# LocationHistory
+
+## about_LocationHistory
+
+# SHORT DESCRIPTION
+
+Provides an enhanced location history.
+
+# LONG DESCRIPTION
+
+**LocationHistory** is a PowerShell module that provides an enhanced location history, allowing easy access to previous locations.
